@@ -62,13 +62,13 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
   
 ### 🖼️ Front-End
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,vite,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,wordpress)](https://skillicons.dev)
 
 <div align="center">
 
 ### 🧠 Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,nodejs,php,express,npm,powershell)](https://skillicons.dev)
 
 </div>
 
