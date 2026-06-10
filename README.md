@@ -23,8 +23,8 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnReiiss)
-[![Star](https://img.shields.io/badge/Star-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnReiiss?tab=stars)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevSanthiago)
+[![Star](https://img.shields.io/badge/Star-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevSanthiago?tab=stars)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contadeestudos541@gmail.com)
 [![iCloud Mail](https://img.shields.io/badge/iCloud-000000?style=for-the-badge&logo=icloud&logoColor=white)](mailto:johnatan.reiiss@icloud.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hayabusa.johnatan?igsh=aG9iYW1mN3ZmeW1z&utm_source=qr)
@@ -38,11 +38,11 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 
 ## 📊 Statistics
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnReiiss&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnReiiss&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnReiiss&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnReiiss&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JohnReiiss&theme=midnight_purple&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSanthiago&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSanthiago&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSanthiago&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSanthiago&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevSanthiago&theme=midnight_purple&utcOffset=-3)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevSanthiago&theme=tokyonight-duo)](https://git.io/streak-stats)
 
@@ -91,16 +91,10 @@ In my free time, I enjoy traveling, listening to music, and practicing weight tr
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JohnReiiss/JohnReiiss/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevSanthiago/DevSanthiago/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevSanthiago/DevSanthiago/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevSanthiago/DevSanthiago/output/pacman-contribution-graph.svg">
 </picture>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSanthiago&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSanthiago&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSanthiago&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSanthiago&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevSanthiago&theme=blueberry&utcOffset=8)
 
 </div>
 
