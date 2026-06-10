@@ -16,7 +16,7 @@
 
 </div>
 
-My name is Johnatan Reis, I am 25 years old, and I am from Santo André-SP. I graduated from high school at Cleonice Soares da Fonseca State School in 2018. Currently, I am pursuing a degree in Software Engineering at Descomplica UniAmérica. I am passionate about technology and the creation of new, optimized ideas and solutions that provide an excellent user experience.
+My name is Johnatan Reis, I am 26 years old, and I am from Santo André-SP. I graduated from high school at Cleonice Soares da Fonseca State School in 2018. Currently, I am pursuing a degree in Software Engineering at Descomplica UniAmérica. I am passionate about technology and the creation of new, optimized ideas and solutions that provide an excellent user experience.
 
 In my free time, I enjoy traveling, listening to music, and practicing weight training or martial arts. I strive to maintain a balance between the various activities I engage in on a daily basis, and I love my life as a programmer.
 
